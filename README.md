@@ -1,3 +1,3 @@
 # YHWH
 This is a project of virus file. I don't have any response of this contents.
-some code made by wipet
+some codes were made by wipet
